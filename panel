@@ -5,7 +5,6 @@ echo "Pterodactyl Panel Installation Started With Docker ✅"
 
 # Step 1: Installing
 
-sudo su
 apt update
 apt upgrade -y
 apt install docker -y
