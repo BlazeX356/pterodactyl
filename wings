@@ -8,6 +8,7 @@ echo "Wings Installation Started"
 apt update
 apt upgrade -y
 apt install docker -y
+apt install docker-compose -y
 
 # Step 2: Creating Files
 
