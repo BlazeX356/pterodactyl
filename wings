@@ -62,6 +62,10 @@ networks:
 
 EOF
 
+# Step 92: Creating
+
+mkdir -p ./data/{database,var,nginx,certs,logs}
+
 # Step 4:  Starting Docker Files
 
 docker-compose up -d
