@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Step 1: idfjdh
+# Step 1: iisis
 
 # Add cloudflare gpg key
 sudo mkdir -p --mode=0755 /usr/share/keyrings
